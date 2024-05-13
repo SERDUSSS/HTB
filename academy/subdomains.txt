@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magictree class="MtBranchObject"><testdata class="MtBranchObject"><host>127.0.0.1<hostname>ns.inlanefreight.htb</hostname></host><fqdn>ns.inlanefreight.htb.</fqdn><host>10.12.3.6<hostname>dev1.dev.inlanefreight.htb</hostname></host><fqdn>dev1.dev.inlanefreight.htb.</fqdn><host>10.12.3.203<hostname>win2k.dev.inlanefreight.htb</hostname></host><fqdn>win2k.dev.inlanefreight.htb.</fqdn><host>127.0.0.1<hostname>ns.dev.inlanefreight.htb</hostname></host><fqdn>ns.dev.inlanefreight.htb.</fqdn></testdata></magictree>

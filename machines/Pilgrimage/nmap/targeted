@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Wed Oct 18 18:41:43 2023 as: nmap -Pn -n -p- --min-rate 5000 -oG targeted 10.10.11.219
+Host: 10.10.11.219 ()	Status: Up
+Host: 10.10.11.219 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (65533)
+# Nmap done at Wed Oct 18 18:42:02 2023 -- 1 IP address (1 host up) scanned in 18.21 seconds

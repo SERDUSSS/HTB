@@ -1,0 +1,4 @@
+# Nmap 7.93 scan initiated Sat Mar 11 23:58:12 2023 as: nmap -F -oG targeted 10.129.165.40
+Host: 10.129.165.40 ()	Status: Up
+Host: 10.129.165.40 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 1433/open/tcp//ms-sql-s///	Ignored State: closed (96)
+# Nmap done at Sat Mar 11 23:58:25 2023 -- 1 IP address (1 host up) scanned in 13.29 seconds
